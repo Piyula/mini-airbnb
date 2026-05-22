@@ -1,4 +1,4 @@
-# 🏠 RentalX Platform - Property Rental Platform
+# 🏠 RentalX Property Management System
 
 A full-stack property rental platform inspired by Airbnb, built with the MERN stack (MongoDB, Express.js, React, Node.js) and designed for fast local development and containerized deployment.
 
