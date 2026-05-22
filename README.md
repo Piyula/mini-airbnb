@@ -344,7 +344,3 @@ This project is licensed under the MIT License.
 - ⬜ Analytics dashboard
 - ⬜ AI-powered recommendations
 
-## ⭐ Show Your Support
-If you find this project useful, give it a ⭐ on GitHub!
-
-_Last Updated: May 2026_
